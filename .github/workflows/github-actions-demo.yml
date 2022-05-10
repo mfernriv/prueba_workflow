@@ -2,7 +2,7 @@ name: GitHub Actions Demo
 on: 
  release:
   branches:
-   - main
+   - mfernriv-patch-1
   tags:
     - v1.0.1
 jobs:
